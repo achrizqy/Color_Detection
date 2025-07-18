@@ -15,11 +15,17 @@ Sistem dapat menerima input dari webcam maupun file video (`.mp4`) dan memberika
 
 ## 📂 Struktur Folder yang Direkomendasikan
 ├── color_trainer.py✅
+
 ├── color_detector_runtime.py✅
+
 ├── MobileNetSSD_deploy.prototxt✅
+
 ├── MobileNetSSD_deploy.caffemodel✅
+
 ├── hue_label_map.pkl ✅
+
 ├── result_detection.mp4 # hasil deteksi warna
+
 ├── dataset/ (silahakn download pada Gdrive)
 
 ---
